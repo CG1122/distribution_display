@@ -124,7 +124,7 @@ poisson = list(
     name = "Poisson",
     qfun = qpois,
     dfun = dpois,
-    args = c( "Lambda (\\(\\lambda$\\))" = "lambda"),
+    args = c( "Lambda (\\(\\lambda\\))" = "lambda"),
     init_args = c(1),
     class = "D" ,
     frm = "$$
